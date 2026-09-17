@@ -1,0 +1,15 @@
+Correcciones de las TSs
+
+TS2: Cuantización
+
+* No hacía falta repetir tanto código en el punto b), otro ciclo te permitía evitar esto. Aunque no
+  es lo que recomendamos en general, quedaría mejor en este caso a los efectos de la presentación.
+
+* En el espectro la etiqueta del eje vertical dice módulo. Yo pondría módulo de la FFT o lo mismo, 
+  pero simbólicamente |X(k)|.
+
+* En la autocorrelación, la etiqueta del eje vertical dice Amplitud. No es correcto, cuando hablamos
+    de amplitud, es la amplitud de la señal.
+
+* En la conclusión falta entender lo más importante que es que aunque baje el ruido de cuantización 
+  aumentando la cantidad de bits, el piso de ruido "analógico" me está imponiendo un SNR mínimo.
