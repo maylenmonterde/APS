@@ -13,3 +13,14 @@ TS2: Cuantización
 
 * En la conclusión falta entender lo más importante que es que aunque baje el ruido de cuantización 
   aumentando la cantidad de bits, el piso de ruido "analógico" me está imponiendo un SNR mínimo.
+
+TS3: Desparramo espectral
+
+* Revisar el texto con un corrector, hay un par de errores.
+
+* En el eje vertical dice Potencia y eso no es correcto. 
+
+* Hubiese estado mejor mostrar también el espectro de potencia en dB.
+
+* En la conclusión estaría bueno dar algún detalle más de por qué se ve la sinc cuando hacemos cero 
+  padding (convolución en el dominio de la frecuencia).
