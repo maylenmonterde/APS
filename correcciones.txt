@@ -24,3 +24,10 @@ TS3: Desparramo espectral
 
 * En la conclusión estaría bueno dar algún detalle más de por qué se ve la sinc cuando hacemos cero 
   padding (convolución en el dominio de la frecuencia).
+
+TS4: Estimadores
+
+* Revisar el texto con un corrector, hay un par de errores, menos que en los anteriores trabajos, bien.
+* En el eje vertical de los histogramas usás como etiqueta, cantidad de realizaciones y eso no es correcto.
+  Podría ir algo como número de casos, conteo, ocurrencias o algo similar.
+* A la conclusión le falta un poco más de trabajo.
