@@ -31,3 +31,11 @@ TS4: Estimadores
 * En el eje vertical de los histogramas usás como etiqueta, cantidad de realizaciones y eso no es correcto.
   Podría ir algo como número de casos, conteo, ocurrencias o algo similar.
 * A la conclusión le falta un poco más de trabajo.
+
+TS5: Estimación Espectral
+
+* Falta justificar mejor por qué no Blackman-Tukey
+* Los gráficos de las señales en el dominio del tiempo en el eje vertical tienen una etiqueta que no es del 
+  todo correcta. Amplitud en todo caso son los valores extremos de la señal. Con x(t) estaba bien.
+* Los espectros estimados no se pueden apreciar como corresponde.
+* A la conclusión le falta un poco más de trabajo, estaba muy bien lo que venías describiendo, pero faltó.
